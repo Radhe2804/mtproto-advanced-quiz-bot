@@ -1,7 +1,7 @@
-pyrogram
-pyrofork
-motor
-requests
-python-dotenv
-flask
-gunicorn
+pyrogram==2.0.106
+pyrofork==2.0.106
+motor==3.5.1
+requests==2.32.3
+python-dotenv==1.0.1
+flask==3.0.3
+gunicorn==23.0.0
