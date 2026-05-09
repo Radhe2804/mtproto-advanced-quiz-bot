@@ -1,14 +1,11 @@
-# Advanced MTProto Quiz Bot
-
-Powerful Telegram Quiz Bot using **Pyrogram (MTProto)** + MongoDB
+# Ultra Advanced MTProto Quiz Bot
 
 Features:
-- Native Telegram Quiz Polls (with confetti)
-- Categories & Difficulty selection
-- MongoDB stats & leaderboard
-- High performance
-- Render ready
+- Native Quiz Polls with Confetti
+- Categories & Difficulty
+- Question Timer
+- Streak System
+- MongoDB Stats
+- Render Ready
 
-## Deployment
-1. Fill `.env`
-2. Deploy on Render
+Made with ❤️ using Pyrogram
