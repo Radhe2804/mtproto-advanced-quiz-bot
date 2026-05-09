@@ -1,0 +1,7 @@
+pyrogram
+pyrofork
+motor
+requests
+python-dotenv
+flask
+gunicorn
